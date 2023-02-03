@@ -78,7 +78,8 @@ Authors
 -------
 
 
-Author <a href="mailto:mohammadhasananisiqom@gmail.com">Mohammad Hasan Anisi</a>
+Author [Mohammad Hasan Anisi](mailto:mohammadhasananisiqom@gmail.com)
+
 
 Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__ !
 
