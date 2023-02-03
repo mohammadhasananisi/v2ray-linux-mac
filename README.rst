@@ -78,7 +78,7 @@ Authors
 -------
 
 
-Author Mohammad Hasan Anisi ==> mailto:mohammadhasananisiqom@gmail.com | `github page <https://github.com/mohammadhasananisi>`
+Author Mohammad Hasan Anisi ==> mailto:mohammadhasananisiqom@gmail.com | `github page <https://github.com/mohammadhasananisi>`__ .
 
 
 Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__ !
