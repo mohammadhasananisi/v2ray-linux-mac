@@ -3,7 +3,7 @@
 Library Reference
 -----------------
 
-The `library reference <https://github.com/shadowsocks/shadowsocks-rust>`__ documents every publicly accessible object in the library.
+The `library reference <https://github.com/shadowsocks/shadowsocks-rust>`  documents every publicly accessible object in the library.
 
 
 Installing
@@ -76,5 +76,5 @@ Authors
 
 Author `Mohammad Hasan Anisi <mailto:mohammadhasananisiqom@gmail.com>`
 
-Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__!
+Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>` !
 
