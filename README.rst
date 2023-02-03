@@ -77,7 +77,8 @@ Configuration
 Authors
 -------
 
-Author `Mohammad Hasan Anisi <mohammadhasananisiqom@gmail.com>_`
+
+Author <a href="mailto:mohammadhasananisiqom@gmail.com">Mohammad Hasan Anisi</a>
 
 Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__ !
 
