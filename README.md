@@ -1,9 +1,12 @@
-# V2Ray executor in Linux and Macos operating systems
+V2Ray executor in Linux and Macos operating systems
+========================================================
+**Run in Terminal**
+
 
 Library Reference
 -----------------
 
-The `library reference <https://github.com/shadowsocks/shadowsocks-rust>`  documents every publicly accessible object in the library.
+The `library reference <https://github.com/shadowsocks/shadowsocks-rust>`__ documents every publicly accessible object in the library.
 
 
 Installing
