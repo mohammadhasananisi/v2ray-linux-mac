@@ -73,13 +73,9 @@ Configuration
 
 
 
-
 Authors
 -------
 
-
-Author Mohammad Hasan Anisi ==> mailto:mohammadhasananisiqom@gmail.com | `github page <https://github.com/mohammadhasananisi>`__ .
-
+Keep In Touch with Mohammad Hasan Anisi `Email <mailto:mohammadhasananisiqom@gmail.com>`__ - `github <https://github.com/mohammadhasananisi>`__ - `Telegram <https://t.me/mohammadhasananisi>`__ - `Linkedin <https://linkedin.com/in/mohammad-hasan-anisi>`__.
 
 Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__ !
-
